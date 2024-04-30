@@ -1,2 +1,2 @@
 # User-Behavior-Analysison-E-commerce-Website
-Analyzed User Behavior on E-commerce Website with SQL
+In this project I used SQL to analyze user behavior on E-commerce website by calculating some metrics such as add-to-cart rate, purchase rate and bounce rate for better user behavior understanding.
